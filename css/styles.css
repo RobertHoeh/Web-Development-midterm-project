@@ -57,9 +57,6 @@ footer p a {
     position: relative;
     min-height: 100vh;
 }
-#footerfix {
-    padding-bottom: 4em;
-}
 .smalltext {
     font-size: 0.25em;
     height: 0.6em;
