@@ -82,6 +82,7 @@ footer p a {
 }
 .columns p a {
     color: lightgray;
+    font-weight: bold;
 }
 .columns h3 {
     padding-left: 2%;
